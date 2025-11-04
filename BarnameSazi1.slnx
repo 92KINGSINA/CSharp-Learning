@@ -1,4 +1,9 @@
 <Solution>
   <Project Path="J2 - Tamrin1/J2 - Tamrin1.csproj" />
   <Project Path="J2 - Tamrin2/J2 - Tamrin2.csproj" />
+  <Project Path="J2 - Tamrin3/J2 - Tamrin3.csproj" Id="646e9592-1572-4412-ab9c-2c3bbc6a52fd" />
+  <Project Path="J2 - Tamrin4/J2 - Tamrin4.csproj" Id="baa77413-9f03-4057-9d5f-290edeec2444" />
+  <Project Path="J2 - Tamrin5/J2 - Tamrin5.csproj" Id="be4fe67c-a5b2-4eac-93ed-ffdd48a63fd9" />
+  <Project Path="J2 - Tamrin6/J2 - Tamrin6.csproj" Id="7fb2dc29-af07-435d-9720-41ccc7b95328" />
+  <Project Path="J2 - Tamrin7/J2 - Tamrin7.csproj" Id="11bd4933-4af9-4ee7-84a2-91cdb4ab847e" />
 </Solution>
